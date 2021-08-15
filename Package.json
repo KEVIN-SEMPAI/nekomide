@@ -2,7 +2,7 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "nombre del archivo creado anteriormente.js",
+  "main": "Nekomide.js",
   "scripts": {
   "start": "node nombre del archivo creado anteriormente.js"
   },
