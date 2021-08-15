@@ -2,9 +2,9 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "Nekomide.js",
+  "main": "nekomide.js",
   "scripts": {
-  "start": "Nekomide.js"
+  "start": "nekomide.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
