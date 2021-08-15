@@ -4,7 +4,7 @@
   "description": "",
   "main": "nekomide.js",
   "scripts": {
-  "start": "nekomide.js"
+  "start": "node nekomide.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
