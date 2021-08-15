@@ -1,7 +1,7 @@
 {
-  "name": "Nombre",
-  "version": "0.0.0",
-  "description": "",
+  "name": "nekomide",
+  "version": "0.0.1",
+  "description": "todavía actualizar",
   "main": "nekomide.js",
   "scripts": {
   "start": "node nekomide.js"
