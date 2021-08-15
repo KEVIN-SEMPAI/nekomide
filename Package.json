@@ -6,7 +6,7 @@
   "scripts": {
   "start": "node nombre del archivo creado anteriormente.js"
   },
-  "npm install": {
+  ",dependencies": {"npm install"
     "@adiwajshing/baileys": "^3.4.1"
   }
 }
