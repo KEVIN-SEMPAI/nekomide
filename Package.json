@@ -4,10 +4,10 @@
   "description": "",
   "main": "Nekomide.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "Nekomide.js"
   },
-  ",dependencies": {
+  "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
-    "npm install"
+"npm install"
   }
 }
