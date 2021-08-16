@@ -83,7 +83,7 @@ client.sendMessage(from, 'Hola,felicidades, has logrado enviar un mensaje median
 break
 case 'hola we':
 client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text, {quoted : sam})
- break
+break
               
 }
 
