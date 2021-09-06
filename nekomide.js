@@ -1,4 +1,4 @@
-const { WAConnection, MessageType } = require('@adiwajshing/baileys');
+const { WAConnection, MessageType, Mimetype, } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const prefix = '.'
 
@@ -84,6 +84,7 @@ break
 case 'hola we':
 client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text, {quoted : sam})
 break
+case image = sf.reasdFileSync ('./media/)
               
 }
 
