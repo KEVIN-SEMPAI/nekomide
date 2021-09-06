@@ -84,7 +84,10 @@ break
 case 'hola we':
 client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text, {quoted : sam})
 break
-case image = sf.reasdFileSync ('./media/)
+case image = fs.readFileSync ('./media/images (36).jpeg')
+client.sendMessade(fron,image,MensageType.image)
+break
+
               
 }
 
