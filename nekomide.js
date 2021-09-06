@@ -86,7 +86,7 @@ client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text
 break
 case 'imagen 1':
 const image = fs.readFileSync ('./media/images (36).jpeg')
-client.sendMessade(fron,image,MensageType.image)
+client.sendMessage(from ,image ,MessageType.image)
 break
 
               
