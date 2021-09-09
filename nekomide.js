@@ -84,11 +84,13 @@ break
 case 'hola we':
 client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text, {quoted : sam})
 break
-case 'imagen 1':
-const image = fs.readFileSync ('./media/images (36).jpeg')
+case 'nekomide':
+const image = fs.readFileSync ('./media/1631229021878.png')
 client.sendMessage(from ,image ,MessageType.image)
 break
 
+
+*menus*
               
 }
 
