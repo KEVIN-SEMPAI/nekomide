@@ -1,4 +1,4 @@
-const { WAConnection, MessageType, Mimetype, } = require('@adiwajshing/baileys');
+const { WAConnection, MessageType } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const prefix = '.'
 
@@ -94,26 +94,17 @@ break
 
 case '*menu':
 client.sendMessage(from, '_*NEKOMIDE*_
-
 ◉ *INFORMACION*
    ○ Comando: ⌜ * ⌟
    ○ Creador: ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
  
-
-
 ◉ *NUEVOS COMANDOS*
 ° *menu
 ° *
-
-
-
-
 ву ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
-
-
 ⌜ *NEKOMIDEi* ⌟',text, {quoted:sam})
 break
-              
+                
 }
 
 } catch (e) {
