@@ -92,6 +92,27 @@ break
 
 //============= menus ===========
 
+case '*menu':
+client.sendMessage(from, '_*NEKOMIDE*_
+
+◉ *INFORMACION*
+   ○ Comando: ⌜ * ⌟
+   ○ Creador: ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
+ 
+
+
+◉ *NUEVOS COMANDOS*
+° *menu
+° *
+
+
+
+
+ву ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
+
+
+⌜ *NEKOMIDEi* ⌟',text, {quoted:sam})
+break
               
 }
 
