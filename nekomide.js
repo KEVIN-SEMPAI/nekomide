@@ -95,7 +95,9 @@ break
 //============= menus ===========
 
 case '*menu':
-client.sendMessage(from, '_*NEKOMIDE*_
+client.sendMessage(from, '
+_*NEKOMIDE*_
+
 ◉ *INFORMACION*
    ○ Comando: ⌜ * ⌟
    ○ Creador: ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
