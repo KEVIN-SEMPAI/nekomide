@@ -78,13 +78,13 @@ const pushname = sam.key.fromMe ? client.user.name : conts.notify || conts.vname
 
 switch (command) {
 
-case 'bot':
+case '*bot':
 client.sendMessage(from, 'Hola,felicidades, has logrado enviar un mensaje mediante un servidor externo😚', text, {quoted : sam})
 break
 case 'hola we':
 client.sendMessage(from, 'hola parsero, has logrado crear un mensaje 😎', text, {quoted : sam})
 break
-case 'nekomide':
+case '*present':
 const image = fs.readFileSync ('./media/1631229021878.png')
 client.sendMessage(from ,image ,MessageType.image)
 break
@@ -100,7 +100,8 @@ client.sendMessage(from, '_*NEKOMIDE*_
  
 ◉ *NUEVOS COMANDOS*
 ° *menu
-° *
+° *present
+°
 ву ꡣKⲈVⲒNⲶⲊⲈՈƤΔίꡇ
 ⌜ *NEKOMIDEi* ⌟',text, {quoted:sam})
 break
